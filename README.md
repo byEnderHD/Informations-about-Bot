@@ -19,4 +19,6 @@ More Informations go to ouer <a href="https://discord.gg/DjX65ST" target="_blank
 </a>
 
 # More Informations
-More Informations comming soon!!!
+This Bot is created from:
+- ✘๖̶̶̶ζLe͜͡Night✘#3661
+- 『GNDE』Gangsta Nation#0229
