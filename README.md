@@ -17,12 +17,6 @@ More Informations go to ouer <a href="https://discord.gg/DjX65ST" target="_blank
 <a href="https://discordbots.org/bot/553270869640740894" >
   <img src="https://discordbots.org/api/widget/553270869640740894.svg" alt="✦✘Empire Bot✘✦" />
 </a>
-<a href="https://discordbots.org/bot/553270869640740894" >
-  <img src="https://discordbots.org/api/widget/status/553270869640740894.svg?noavatar=true" alt="✦✘Empire Bot✘✦" />
-</a>
-<a href="https://discordbots.org/bot/553270869640740894" >
-  <img src="https://discordbots.org/api/widget/lib/553270869640740894.svg?noavatar=true" alt="✦✘Empire Bot✘✦" />
-</a>
 
 # More Informations
 More Informations comming soon!!!
