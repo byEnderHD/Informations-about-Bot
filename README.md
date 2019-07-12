@@ -22,4 +22,4 @@ More Informations go to ouer <a href="https://discord.gg/DjX65ST" target="_blank
 This Bot is created from:
 - ✘๖̶̶̶ζLe͜͡Night✘#3661
 - 『GNDE』Gangsta Nation#0229
-- zCuzImDev | Marcel#2319
+- byEnderHD • Marcel#2319
